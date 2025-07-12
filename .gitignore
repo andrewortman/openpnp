@@ -4,7 +4,7 @@ target
 
 installers
 .settings
-.project
+.projectsofast
 .ideayay
 *.iml
 .classpath
