@@ -5,7 +5,7 @@ target
 installers
 .settings
 .project
-.idea
+.ideayay
 *.iml
 .classpath
 src/main/resources/icons/src/Soft_Scraps_by_deleket
